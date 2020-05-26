@@ -1,0 +1,22 @@
+{
+  "bin": {
+    "bavjean": "./index.js"
+  },
+  "name": "brianavjean-resume",
+  "version": "1.0.0",
+  "description": "Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bavjean/npm-resume.git"
+  },
+  "author": "Brian Avjean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bavjean/npm-resume/issues"
+  },
+  "homepage": "https://github.com/bavjean/npm-resume#readme"
+}
