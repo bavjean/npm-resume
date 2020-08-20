@@ -9,11 +9,19 @@
         "HTML",
         "CSS",
         "Javascript",
+        "Python",
         "React",
-        "More TBD"
+        "Django",
+        "Express",
+        "Flask",
+        "MongoDB",
+        "PostgreSQL",
+        "Node",
+        "Mongoose",
+        "Peewee"
     ],
     "otherSkills": [
         "Computer games",
-        "Drummer"
+        "Drumming"
     ]
 }
